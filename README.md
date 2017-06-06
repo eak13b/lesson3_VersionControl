@@ -16,6 +16,9 @@ phtopgraphs. I was also introduced to GitHub and the git language by linking my 
 GitHub account using the bash window on Cloud 9. I edited this ReadMe file to reflect the details of 
 this assignment as well. 
 
+#View Project:
+https://eak13b.github.io/lesson3_VersionControl/
+
 ## Lessons Learned in the Assignment:
 1. In this lesson I was introduced to a completly new concept for me. I learned about version 
     control systems and what they are capable of. I learned a few git commands and was able to 
